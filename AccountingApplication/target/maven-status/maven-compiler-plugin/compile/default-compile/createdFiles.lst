@@ -1,0 +1,15 @@
+com\shree\kafka\config\KafkaConsumerConfig.class
+com\shree\accounting_application\AccountingApplication.class
+com\shree\controllers\CalculateSalaryApiController.class
+com\shree\model\CalculateSalaryRequest.class
+com\shree\model\EmployeeLeave.class
+com\shree\model\EmpSalaryModel.class
+com\shree\msinterfaces\EmployeServiceProxy.class
+com\shree\msinterfaces\EmployeeLeaveServiceProxy.class
+com\shree\controllers\SalaryController.class
+com\shree\model\Leave.class
+com\shree\model\Salary.class
+com\shree\constant\MyConstants.class
+com\shree\model\Employee.class
+com\shree\controllers\SalaryConsumerService.class
+com\shree\kafka\config\KafkaProducerConfig.class
